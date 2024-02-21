@@ -1,0 +1,5 @@
+Coherence provides mechanisms to integrate with other services using TopLink, Java Persistence API, Oracle Golden Gate[5] and other platforms using APIs provided by Coherence.
+
+Coherence can be used to manage HTTP sessions via Coherence*Web,[6] in which application services such as Oracle WebLogic Server, IBM WebSphere, Apache Tomcat and others are claimed to get the same performance, fault tolerance, and scalability as data.
+
+In the summer of 2020, Coherence Community Edition was released as open source on GitHub.[7] Some Coherence usage patterns are also open source and are listed and supported through the Oracle Coherence incubator.[8] These patterns implement features such as messaging, work distribution and data replication across wide area networks with Coherence.
