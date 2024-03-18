@@ -1,0 +1,1 @@
+{"name":"Local: isomorphic","url":"c:\\Users\\harsh\\OneDrive\\Desktop\\College-Work\\isomorphic.cpp","tests":[{"id":1710763220057,"input":"aab \nxxy","output":"1"},{"id":1710763232841,"input":"aab\nxyz","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\harsh\\OneDrive\\Desktop\\College-Work\\isomorphic.cpp","group":"local","local":true}
